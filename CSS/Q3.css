@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+p.p1{
+	text-transform: uppercase;
+}
+p.p2{
+	text-transform: capitalize;
+}
+p.p3{
+	text-transform: lowercase;
+}
+body {
+	 background-color: lightgreen;
+}
